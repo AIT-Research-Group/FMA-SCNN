@@ -28,4 +28,4 @@ cd scr/SCNN
 
 MIT
 
-**Free Software, Hell Yeah!**
+**@ AIT Research Group**

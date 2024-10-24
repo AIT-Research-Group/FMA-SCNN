@@ -3,7 +3,7 @@
 ## FMA-SCNN Overview
 ![Overview](./images/Overview-FMA-SCNN.png)
 
-## Run codes
+## Run code
 Install lib-package to run Fast Marching Algorithm
 ```bash
 cd scr/FastMarchingAlgorithm

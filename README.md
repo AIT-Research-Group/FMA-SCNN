@@ -22,7 +22,4 @@ cd scr/SCNN
 ```
 
 ## License
-
-MIT
-
 **@ AIT Research Group**
